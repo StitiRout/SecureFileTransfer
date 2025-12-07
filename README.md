@@ -1,4 +1,4 @@
-Secure File Transfer System (Java, AES/RSA, GUI, OpenSSL)
+Secure File Transfer System 
 
 A secure and user-friendly file transfer application built using Java, AES & RSA encryption, OpenSSL, and a clean Graphical User Interface (JavaFX/Swing).
 This project enables two systems on a local network to exchange files safely, ensuring confidentiality, integrity, and authentication.
