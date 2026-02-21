@@ -1,9 +1,9 @@
-Secure File Transfer System 
+# Secure File Transfer System 
 
 A secure and user-friendly file transfer application built using Java, AES & RSA encryption, OpenSSL, and a clean Graphical User Interface (JavaFX/Swing).
 This project enables two systems on a local network to exchange files safely, ensuring confidentiality, integrity, and authentication.
 
-🚀 Features
+# 🚀 Features
 
 End-to-End Encryption
 
@@ -35,7 +35,7 @@ Cross-Platform
 
 Works on Windows, macOS, and Linux with Java 8+
 
-🛠️ Prerequisites
+# 🛠️ Prerequisites
 
 Before running the project, ensure you have:
 
@@ -62,7 +62,7 @@ java.net (Networking)
 
 JavaFX / Swing (GUI)
 
-📁 Project Structure
+# 📁 Project Structure
 Secure-File-Transfer/
 │
 ├── src/
@@ -141,7 +141,7 @@ Decrypts file
 
 Saves output safely
 
-🔐 Security Workflow
+# 🔐 Security Workflow
 
 AES key is generated per session
 
@@ -165,7 +165,7 @@ Secure transfer
 
 Replay/Interception protection
 
-🧪 Testing
+# 🧪 Testing
 
 To test the application:
 
@@ -189,7 +189,7 @@ Verify integrity of received output
 
 Test with invalid keys or wrong IP to confirm error handling
 
-🛤️ Future Enhancements
+# 🛤️ Future Enhancements
 
 Support for TLS-based transfer
 
